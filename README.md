@@ -6,7 +6,11 @@
 - 😄 Pronouns: SHE/HER
 - ⚡ Fun fact: ...
 
-<!---
-Aparna3622/Aparna3622 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills
+Html 
+css
+javascript
+mongoDB
+
+
+

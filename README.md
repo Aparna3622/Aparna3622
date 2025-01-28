@@ -6,11 +6,7 @@
 - 😄 Pronouns: SHE/HER
 - ⚡ Fun fact: ...
 
-Skills
-Html 
-css
-javascript
-mongoDB
+
 
 
 

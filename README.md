@@ -5,7 +5,10 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: SHE/HER
 - ⚡ Fun fact: ...
-
+🔹 Web Development Intern at Pinnacle Labs – Built dynamic and responsive websites
+🔹 AWS Certified – Strong foundation in cloud computing
+🔹 Projects: Online Banking System, Grocery Delivery Services, Palindrome Checker
+🔹 Research Interests: Movie Sentiment Analysis, Internet of Space Things (IoST)
 
 
 

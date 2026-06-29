@@ -11,7 +11,7 @@
 
 🤝 Open to collaborating on **Python, Backend Development, AI/ML, and Open Source Projects**
 
-📫 Reach me at: **shekadaraparna@gmail.com**
+📫 Reach me at: **aparnashekadar123@gmail.com**
 
 🔗 LinkedIn: https://linkedin.com/in/aparnashekadar
 

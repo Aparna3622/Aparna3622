@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Aparna3622<br>👀 I’m interested in Web designing<br>🌱 I’m currently learning MCA<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me ...<br>😄 Pronouns: SHE/HER<br>⚡ Fun fact:  Web Development Intern at Pinnacle Labs – Built dynamic and responsive websites -🔹 Projects: Online Banking System, Grocery Delivery Services, Palindrome Checker -🔹 Research Interests: Movie Sentiment Analysis, Internet of Space Things (IoST)
+👋 Hi, I’m @Aparna3622<br>👀 Passionate about building AI-powered web applications using Python, FastAPI, Machine Learning, and SQL.<br>🌱 I’m currently learning MCA<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me ...<br>😄 Pronouns: SHE/HER<br>⚡ Fun fact:  Web Development Intern at Pinnacle Labs – Built dynamic and responsive websites -🔹 Projects: Online Banking System, Grocery Delivery Services, Palindrome Checker -🔹 Research Interests: Movie Sentiment Analysis, Internet of Space Things (IoST)
 
 
 ## 🌐 Socials:
